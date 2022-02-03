@@ -1,16 +1,11 @@
-package DesafioGFT.desafio1;
+/*package DesafioGFT.desafio1;
 
 public class mainteste{
     public static void main(String[] args){
-        class1 letraA = new class1();
-        class2 letraB = new class2();
-        class3 letraC = new class3();
-        class4 letraD = new class4();
-        String palavra = "palavra = ";
-        palavra += letraA.testador();
-        palavra += letraB.testador();
-        palavra += letraC.testador();
-        palavra += letraD.testador();
-        System.out.println(palavra);
+        Investimento calculo = new Investimento(1000d,0.04d);
+        InvestimentoComIR calculoComIR = new InvestimentoComIR(1000d,0.04d);
+        InvestimentoSemIR calculoSemIR = new InvestimentoSemIR(1000d,0.04d);
+        System.out.println(calculo.calcularLucro(2));
+        System.out.println(calculoComIR.calcularLucro(2));
     }
-}
+}*/
