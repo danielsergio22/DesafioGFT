@@ -1,9 +1,6 @@
 package DesafioGFT.desafio3;
 
 import java.util.Scanner;
-import java.util.Set;
-
-import DesafioGFT.desafio1.Main;
 
 public class mainteste{
     public static void main(String[] args){
