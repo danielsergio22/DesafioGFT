@@ -43,5 +43,6 @@ public class mainteste{
         System.out.println("Starter: " + starters);
         System.out.println("Junior: " + juniors);
         System.out.println("Sênior: " + seniors);
+        scan.close();
     }
 }
