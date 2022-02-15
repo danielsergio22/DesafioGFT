@@ -1,7 +1,7 @@
 package DesafioGFT.desafio1;
 import java.lang.Math;
 
-public class Investimento {
+public abstract class Investimento {
     double valorInicial;
     double jurosMensais;
     double resultado;
