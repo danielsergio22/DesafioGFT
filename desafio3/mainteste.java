@@ -12,8 +12,8 @@ public class mainteste{
         for(int i=0; i<5 ; i++){
             System.out.println("Informe o nome da "+(1+i)+"º pessoa: ");
             String pessoa = scan.nextLine();
-                System.out.println("Informe o cargo da "+(1+i)+"º pessoa (Starter,Junior ou Sênior): ");
-                cargo = scan.nextLine();
+            System.out.println("Informe o cargo da "+(1+i)+"º pessoa (Starter,Junior ou Sênior): ");
+            cargo = scan.nextLine();
             /*if(!pessoa.equalsIgnoreCase("Starter") || !pessoa.equalsIgnoreCase("Junior") || !pessoa.equalsIgnoreCase("Sênior")){
                 cargo = "Sênior";
             }*/
@@ -28,6 +28,7 @@ public class mainteste{
             if(cargo == "Sênior"){
                 seniors++;
             }
+            System.out.println(usuario);
                 /*case "Starter": 
                 starters++;
                 return;
