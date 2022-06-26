@@ -1,7 +1,6 @@
 package DesafioGFT.desafio4;
 
 import java.util.*;
-import java.util.stream.Stream;
 
 public class desafio4 {
     public static void main(String[] args) {
